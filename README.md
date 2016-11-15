@@ -33,7 +33,6 @@ conda search flask-restless --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
